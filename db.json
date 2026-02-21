@@ -37,6 +37,12 @@
       "message": "halo",
       "isUser": true,
       "timestamp": "2026-02-21T06:33:24.201Z"
+    },
+    {
+      "userId": 1,
+      "message": "Maaf, terjadi kesalahan koneksi.",
+      "isUser": false,
+      "timestamp": "2026-02-21T06:33:28.566Z"
     }
   ]
 }
