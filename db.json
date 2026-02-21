@@ -20,7 +20,7 @@
       "id": 1,
       "name": "Primary Key",
       "key": "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",
-      "is_active": true,
+      "is_active": false,
       "created_at": "2024-01-01T00:00:00.000Z"
     },
     {
