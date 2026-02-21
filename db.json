@@ -6,13 +6,6 @@
       "password": "a7f5c1e2b3d4f5g6h7j8k9l0q1w2e3r4t5y6u7i8o9p0",
       "role": "admin",
       "created_at": "2024-01-01T00:00:00.000Z"
-    },
-    {
-      "id": 1771655597660,
-      "username": "JRT",
-      "password": "6b3c238ebcf1f3c07cf0e556faa82c6b8fe96840ff4b6b7e9962a2d855843a0b",
-      "role": "user",
-      "created_at": "2026-02-21T06:33:17.660Z"
     }
   ],
   "api_keys": [
