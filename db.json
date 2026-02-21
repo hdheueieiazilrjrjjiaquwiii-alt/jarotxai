@@ -2,20 +2,27 @@
   "users": [
     {
       "id": 1,
-      "username": "admin",
-      "password": "8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918",
+      "username": "JAROT404",
+      "password": "a7f5c1e2b3d4f5g6h7j8k9l0q1w2e3r4t5y6u7i8o9p0",
       "role": "admin",
       "created_at": "2024-01-01T00:00:00.000Z"
     }
   ],
-  "chats": [],
   "api_keys": [
     {
       "id": 1,
-      "name": "OpenRouter Primary",
-      "key": "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",
+      "name": "Primary Key",
+      "key": "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",
+      "is_active": true,
+      "created_at": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "id": 2,
+      "name": "Backup Key",
+      "key": "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",
       "is_active": true,
       "created_at": "2024-01-01T00:00:00.000Z"
     }
-  ]
+  ],
+  "chats": []
 }
